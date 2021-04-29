@@ -1,0 +1,22 @@
+h1{
+  color:tomato;
+}
+img{
+  width: 400px;
+}
+#thirdDiv{
+  width: 500px;
+  height: 600px;
+  background-color: mediumseagreen;
+  padding: 50px;
+  border: 8px dashed tomato;
+}
+#spanId{
+  font-size: 18px;
+  margin: 50px;
+}
+body{
+  background-image: url("https://thumbs.dreamstime.com/b/marco-dorado-con-fondo-blanco-abstracto-dise%C3%B1o-minimalista-moderno-ilustraci%C3%B3n-d-de-pantalla-wallpaper-espacio-copia-para-203479277.jpg");
+  margin-left:0 auto;
+  margin-right:0 auto;
+}
